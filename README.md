@@ -35,4 +35,4 @@ demand during peak hours and allocate drivers more efficiently.
 - Matplotlib
 
 - ## Predicción vs valores reales
-![Predicción](predictions.png)
+![Predicción](predictions_vs_actual.png)
