@@ -41,3 +41,10 @@ By analyzing patterns like what time of day or day of the week people request mo
 
 - ## Predicción vs valores reales
 ![Predicción](predictions_vs_actual.png)
+
+## Explanation
+The chart shows a comparison between the actual values and the model's predictions on the test set.
+
+The model is able to follow the general trend of the time series and captures the main demand patterns effectively. However, it shows some deviations during extreme peaks, where it tends to underestimate the actual values.
+
+Overall, the model demonstrates solid performance and provides reasonably accurate predictions for taxi demand.
