@@ -27,6 +27,11 @@ demand during peak hours and allocate drivers more efficiently.
 - Best performing model: **Random Forest**
 - RMSE on the test set: **≤ 48**, meeting the project requirement
 
+## Conclusion
+I built a project to predict how many taxi rides will be requested in the next hour based on past data. The idea is to help a taxi company understand when demand will increase, so they can have more drivers available during busy times.
+
+By analyzing patterns like what time of day or day of the week people request more rides, the model can make accurate predictions. This helps improve service, reduce wait times, and make operations more efficient.
+
 ## Technologies
 - Python
 - Pandas
